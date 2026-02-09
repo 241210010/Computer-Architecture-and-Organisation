@@ -40,7 +40,3 @@ If you want to contribute additional circuits, improved documentation or lab not
 ## License
 
 This repository does not include an explicit license. If you plan to reuse or redistribute the circuits, contact the repository owner (241210010) or add a LICENSE file to clarify reuse terms.
-
----
-
-If you would like, I can commit this README.md to the repository now.
