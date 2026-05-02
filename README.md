@@ -4,7 +4,7 @@ This repository contains laboratory exercises and circuit designs created for th
 
 ## Overview
 
-- Author: 241210010
+- Author: Aekaksh Dev Poonia (241210010)
 - Course: Computer Architecture and Organisation
 - Primary tools: Logisim-evolution (recommended version: v4.0.0), GDB compiler
 
